@@ -39,6 +39,7 @@ let g:user_emmet_settings = webapi#json#decode(
     }
 }
 ```
-
+###4.Done,now it can be used:
+![emmet-vim-react-snippets](http://duteng.github.io/img/emmet-vim-react-snippets.gif)
 
 
