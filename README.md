@@ -1,20 +1,18 @@
 # emmet-vim-react-snippets
 
-##Requirements
-
-###Using Vundle to install the following plugins:
+###1.Using Vundle to install the following plugins:
 ```
 Plugin 'vim-scripts/Emmet.vim'
 Plugin 'vim-scripts/WebAPI.vim'
 ```
 
-###Next you need to add this to your ~/.vimrc:
+###2.Next you need to add this to your ~/.vimrc:
 ```
 let g:user_emmet_settings = webapi#json#decode(
 \  join(readfile(expand('~/.snippets.json')), "\n"))
 ```
 
-###Edit your ~/.snippets.json as following:
+###3.Edit your ~/.snippets.json as following:
 ```
 {
     "javascript": {
