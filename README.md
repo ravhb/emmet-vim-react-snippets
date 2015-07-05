@@ -1,6 +1,10 @@
 # emmet-vim-react-snippets
 
-###1.Using Vundle to install the following plugins:
+##What it will looks like:
+![emmet-vim-react-snippets](http://duteng.github.io/img/emmet-vim-react-snippets.gif)
+
+##How to config:
+###1.Using [Vundle](https://github.com/gmarik/Vundle.vim) to install the following plugins:
 ```
 Plugin 'vim-scripts/Emmet.vim'
 Plugin 'vim-scripts/WebAPI.vim'
@@ -39,7 +43,6 @@ let g:user_emmet_settings = webapi#json#decode(
     }
 }
 ```
-###4.Done,now it can be used:
-![emmet-vim-react-snippets](http://duteng.github.io/img/emmet-vim-react-snippets.gif)
+###4.Done, enjoy!
 
 
