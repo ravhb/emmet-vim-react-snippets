@@ -1,7 +1,7 @@
 # emmet-vim-react-snippets
 
 ##What it will looks like:
-![emmet-vim-react-snippets](http://duteng.github.io/img/emmet-vim-react-snippets.gif)
+![emmet-vim-react-snippets](https://raw.githubusercontent.com/duteng/emmet-vim-react-snippets/master/emmet-vim-react-snippets.gif)
 
 ##How to config:
 ###1.Using [Vundle](https://github.com/gmarik/Vundle.vim) to install the following plugins:
